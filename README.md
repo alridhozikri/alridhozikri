@@ -13,6 +13,7 @@ I am a self-taught developer currently exploring the backend world. I enjoy turn
 * 🤝 I’m looking for simple collaboration opportunities to practice **clean coding** and **Git workflow**.
 * 💬 Ask me about: How I structured the database for my hotel system project!
 * 💬 Im looking for collbaoration
+* 💬 tes
 
 ---
 
